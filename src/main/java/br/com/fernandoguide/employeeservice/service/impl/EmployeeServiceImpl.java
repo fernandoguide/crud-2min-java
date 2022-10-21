@@ -1,11 +1,8 @@
 package br.com.fernandoguide.employeeservice.service.impl;
 
 import br.com.fernandoguide.employeeservice.dao.EmployeeRepository;
-import br.com.fernandoguide.employeeservice.dto.EmployeeDTO;
 import br.com.fernandoguide.employeeservice.entity.Employee;
-import br.com.fernandoguide.employeeservice.mapper.EmployeeMapper;
 import br.com.fernandoguide.employeeservice.service.EmployeeService;
-import org.mapstruct.factory.Mappers;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;

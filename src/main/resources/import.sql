@@ -1,0 +1,5 @@
+-- insert into company values (1,'123456','2022-10-01','2000-05-01','Empresa teste')
+-- insert into company values (2,'123456789','2022-10-01','2000-05-01','Empresa teste 2')
+-- insert into employee values (1,'TECNOLOGIA','Funcionario 01',8000,1)
+-- insert into employee values (2,'TECNOLOGIA','Funcionario 02',81000,2)
+-- insert into employee values (3,'TECNOLOGIA','Funcionario 03',17000,1)
